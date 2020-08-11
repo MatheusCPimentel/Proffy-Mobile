@@ -48,7 +48,9 @@ const styles = StyleSheet.create({
   },
 
   submitButtonText: {
-    
+    color: '#FFF',
+    fontFamily: 'Archivo_700Bold',
+    fontSize: 16
   },
 });
 
